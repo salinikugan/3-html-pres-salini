@@ -1,0 +1,25 @@
+<!-- slide 1 -->
+        <section class="mySlides fs-img1" id="full-screen-image">
+            <h1 class="w3-container w3-display-middleblack-transparent w3-text-black w3-center"> Clean Water And Sanitation </h1> 
+
+        </section>
+        
+        
+        
+        
+        
+        
+        body, html {
+    height: 100%;
+}
+
+.hs-img2 { 
+    /* The image used */
+    background-image: url("/img/children-1822704_1280.jpg");
+    /* Full height */
+    height: 100%; 
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
